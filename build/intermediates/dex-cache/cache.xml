@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3b40dfe09d466a92b428ea186a0f3c2042a950fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6229aa36f70ca9dcbefe855356a8cffe865905f8">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_97bb51760626cdec0e16b5e3de1953d871d39151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_690bd017cf85faa3edaf56977cab10acd74902db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_1cbe17db8866682bcefc77bfe4a6d6f8b4ea710c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_f738701096111bbdc1f28b9d3dd53ee268b97823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_7e3c98e8356919be730af3467217f8e52984d9a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_1124ae63675c893bdc41927159b0a5b6dcd4a067\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_e2d92bfe4a56b74500cb5f37fe902792c507fe47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_ea63ab37dcae4b08453e1442c25431642c81a82a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_814c65a9df04f20909e2a298cf0cd9415112754b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_274660635b9c7f36a2ed27f5cb63f569d6667662\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_39168d26c87954d87ec66ac6ca17dec25ec61b83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_21f90e7c431a1e1b2ff886707daa41e640286c60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_2039d7db6e9dab227d892cf04acddc11c9e617cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_758fca0152c0827b7b5d2bf5578e9b6ba4395707\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_4841150c0695f065eca45e768c9cf905eada0844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0182073fd80c09ed343998bea6ab47c26fd3f7bc">
+        <dex dex="C:\Users\Jocke\Documents\GitHub\ProjectWork_Year_1_Extended-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_841937a32db1687f5c340a5b3409459f823b5441\classes.dex" />
+    </item>
+
+</items>
